@@ -1,0 +1,1 @@
+A collection of reusable AI skills for software development
